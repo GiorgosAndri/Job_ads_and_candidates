@@ -1,6 +1,6 @@
 # Job_ads_and_candidates
 
-##This is my final project of the course CS50’s Introduction to Databases with SQL.
+## This is my final project of the course CS50’s Introduction to Databases with SQL.
 
 # Design
 
@@ -70,7 +70,7 @@ Entities are captured in SQLite tables with the following schema.
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
-![ER Diagram](ER.png)
+![ER Diagram]([ER.png](https://github.com/GiorgosAndri/Job_ads_and_candidates/blob/main/ER.PNG))
 
 * Companies and Job_ads: A company may have many job ads, but a job ad may have only one company.
 *  A job_id may be associated from 0 to many candidates. A candidate may be associated from 1 to many job ads.
